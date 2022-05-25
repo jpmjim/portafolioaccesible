@@ -104,6 +104,15 @@ nav {
   color: black;
 }
 
+.nav-item:focus-within {
+  background-color: var(----verde);
+}
+
+.nav-item a:focus {
+  outline: none;
+  color: var(--color-oscuro);
+}
+
 .intro {
   font-size: 1.6rem;
   color: var(--blanco);
