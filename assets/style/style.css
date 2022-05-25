@@ -285,6 +285,7 @@ input:focus {
 
 #name-error {
   color: var(--blanco);
+  font-size: 1.6rem;
 }
 
 .notification {
@@ -300,6 +301,7 @@ input:focus {
   right: 24px;
   top: 24px;
   width: 300px;
+  font-size: 1.6rem;
 }
 
 .modal-container {
